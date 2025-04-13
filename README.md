@@ -1,5 +1,5 @@
-#### JARVIS MD WHATSAPP BOT
-jarvis md is Multi Device whatsapp bot
+#### kenichi-xd/whatsapp.bot
+kenichi-xd is Multi Device whatsapp bot
 ***
 
 ### SETUP JARVIS
