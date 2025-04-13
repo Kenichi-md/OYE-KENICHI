@@ -1,94 +1,117 @@
-#### kenichi-xd/whatsapp.bot
-kenichi-xd is Multi Device whatsapp bot
-***
+## WhatsApp User Bot
 
-### SETUP JARVIS
+This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
-1. Scan the QR code
-    <br>
-<a href='https://jarvis-qr.vercel.app/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+## What is WhatsAsena?
 
-#### DEPLOY TO HEROKU 
+**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
-1. If You don't have a account in Heroku. Create a account in heroku.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+## Setup
 
-3. Now Deploy
-    <br>
-<a href='https://jarvis-qr.vercel.app/heroku' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+1. Click [SCAN](https://qr-hazel-alpha.vercel.app/) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that needs after 4th step (ASENA_SESSION).
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+4. Click [FORK](https://github.com/lyfe00011/levanter/fork)
+5. Now [DEPLOY](https://qr-hazel-alpha.vercel.app/)<br>
+   <br>
+   <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <br>
+   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <br>
+   <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
+<!--
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-#### DEPLOY TO RAILWAY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+<details>
+<summary>Plugins</summary>
+<p>
 
-1. If You don't have a account in railway. Create a account in railway.
-    <br>
-<a href='https://railway.app/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+| Active | Group commands |
+| :----: | :------------- |
+|   ✔️   | Kick           |
+|   ✔️   | Tag            |
+|   ✔️   | Add            |
+|   ✔️   | Warn           |
+|   ✔️   | Vote           |
+|   ✔️   | Invite         |
+|   ✔️   | Revoke         |
+|   ✔️   | Demote         |
+|   ✔️   | Promote        |
+|   ✔️   | Banbye         |
+|   ✔️   | Goodbye        |
+|   ✔️   | Welcome        |
+|   ✔️   | Schedule       |
+|   ✔️   | Auto-mute      |
+|   ✔️   | Mute/Unmute    |
+|   ✔️   | Common/Diff    |
 
-2.Get [Railway api key](https://railway.app/account/tokens)
+| Active | Dowloader commands    |
+| :----: | :-------------------- |
+|   ✔️   | Saavn                 |
+|   ✔️   | Upload                |
+|   ✔️   | Yta/Ytv               |
+|   ✔️   | Unsplash              |
+|   ✔️   | Mediafire             |
+|   ✔️   | Pinterest             |
+|   ✔️   | SoundCloud            |
+|   ✔️   | TikTok video          |
+|   ✔️   | Twitter video         |
+|   ✔️   | Facebook video        |
+|   ✔️   | Instagram story       |
+|   ✔️   | YouTube audio/video   |
+|   ✔️   | Instagram video/image |
 
-3. Now Deploy
-    <br>
-<a href='https://jarvis-qr.vercel.app/railway' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+| Active | Misc Commands     | Usage                        |
+| :----: | :---------------- | :--------------------------- |
+|   ✔️   | Qr                | Reads QR code                |
+|   ✔️   | Ss                | Screenshot of web            |
+|   ✔️   | Url               | Gets url of media            |
+|   ✔️   | Trt               | Translates messages          |
+|   ✔️   | Mp3               | Video to mp3                 |
+|   ✔️   | Txt               | Image to text                |
+|   ✔️   | Afk               | Away from keyboard           |
+|   ✔️   | Cut               | Cuts mp3                     |
+|   ✔️   | Pdf               | Images to pdf                |
+|   ✔️   | Mp4               | Sticker to video             |
+|   ✔️   | Take              | Change sticker pack info     |
+|   ✔️   | Wiki              | Wikipedia search             |
+|   ✔️   | Meme              | Text on photos               |
+|   ✔️   | Trim              | Trims video                  |
+|   ✔️   | Find              | It finds song                |
+|   ✔️   | Attp              | Coloured text sticker        |
+|   ✔️   | Alive             | To check alive or not        |
+|   ✔️   | Whois             | Group or individual data     |
+|   ✔️   | Movie             | Shows Movie Info             |
+|   ✔️   | Merge             | It merge a videos            |
+|   ✔️   | Voice             | Voice to mp3                 |
+|   ✔️   | Topdf             | Documnet ot pdf              |
+|   ✔️   | Emoji             | Emoji to sticker             |
+|   ✔️   | Lydia             | Auto AI chat                 |
+|   ✔️   | Sticker           | Photo/video to sticker       |
+|   ✔️   | Reverse           | Reverse audio/video          |
+|   ✔️   | Unvoice           | Audio to voices              |
+|   ✔️   | Wasted            | Wasted logo                  |
+|   ✔️   | Trigged           | Triggered effect             |
+|   ✔️   | Forward           | Forwarding msg using jid     |
+|   ✔️   | Compress          | Compresses video             |
+|   ✔️   | Google            | Google reverse image search  |
+|   ✔️   | Upload            | Download from Url            |
+|   ✔️   | Weather           | Shows weather                |
+|   ✔️   | Getjids           | Gets jids of chats           |
+|   ✔️   | Removebg          | Removes background           |
+|   ✔️   | Setabout          | Sets bio                     |
+|   ✔️   | Setstatus         | Sets status                  |
+|   ✔️   | Pitch/low/bass    | Audio effects                |
+|   ✔️   | Histo/vector/aves | Audio to video               |
+|   ✔️   | Block/unblock     | Blocks/unblocks members      |
+|   ✔️   | Broadcast         | Custom Broadcasting Messages |
 
-#### DEPLOY TO KOYEB 
+</p>
+</details>
+   
+### Thanks To
 
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-3. Get [DATABASE_URL](https://github.com/Loki-Xer/jarvis/wiki/Data-base-url) and copy it
-
-4. Get [Koyeb api key](https://app.koyeb.com/settings/api)
-
-2. Now Deploy
-    <br>
-<a href='https://jarvis-qr.vercel.app/koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-#### DEPLOY TO PANEL
-
-1. If You don't have a account in panel create it . 
-2. How to deploy in panel?
-    <br>
-<a href='https://gist.github.com/IRON-M4N/2ab6496e34ec714682c7b6fb6ee86ca1' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/PANEL-100000?style=for-the-badge&logo=pterodactyl&logoColor=white&labelColor=black&color=black&logoSize=auto'/></a>
-
-#### DEPLOY TO RENDER 
-
-1. If You don't have a account in render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='render' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-
-3. Get [DATABASE_URL](https://github.com/Loki-Xer/jarvis/wiki/Data-base-url) and copy it
-
-4. Get [Render api key](https://dashboard.render.com/u/settings#api-keys)
-
-
-2. Now Deploy
-    <br>
-<a href='https://jarvis-qr.vercel.app/render' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-    
- 
-#### DEPLOY TO REPLIT 
-
- 1. If You don't have a account in replit. Create a account in replit.
-    <br>
-<a href='https://replit.com/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-2. Now Deploy
-    <br>
-<a href='https://jarvis-qr.vercel.app/replit' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-#### THANKS TO
-- [INRL ❤️](https://github.com/inrl-official) <br>
-
-#### JARVIS SUPPORT 
-
-
-
-<a href="https://whatsapp.com/channel/0029Va9dOax4o7qDb6pVvp34"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-    <br>
-<br>
-<a href="https://chat.whatsapp.com/HCRUrl9kCvEL6v7OhmG5BR"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <br>
-<br>
-<a href='https://github.com/IRON-M4N/Jarvis-MD-Plugins' target="_blank"><img alt='jarvis-md' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
