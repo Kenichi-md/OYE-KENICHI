@@ -1,1 +1,1 @@
-# OYE-KENICHI
+# kenichi-xd.bot
