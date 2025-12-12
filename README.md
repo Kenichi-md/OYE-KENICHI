@@ -1,9 +1,9 @@
-# ʟᴀᴅʏ ʙᴇʟʟᴀ ᴠ3
+# 𝐎𝐘𝐄-𝐊𝚵𝚴𝚰𝐂𝚮𝚰_么⛱ ᴠ3
 
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+Ladybella2+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+SNOWBIRD💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+Ladybella2+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+KENICHI💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
