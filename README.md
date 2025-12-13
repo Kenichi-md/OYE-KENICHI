@@ -1,95 +1,86 @@
-# 𝐎𝐘𝐄-𝐊𝚵𝚴𝚰𝐂𝚮𝚰_么⛱ ᴠ3
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
 
-<!-- Glowing Header -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+Ladybella2+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+KENICHI💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
-</h1>
-
-<!-- Banner Image -->
-<p align="center">
-  <a href="https://files.catbox.moe/3u88n0.webp">
-    <img src="https://files.catbox.moe/j8gnj0.jpeg" width="100%" height="auto">
-  </a>
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
->
-
----
-<h4 align="left">1. ᴍʏ ᴀᴄᴄᴏᴜɴᴛ</h4>
-<p align="left">
-<a href='https://github.com/SNOWBIRD0074' target="_blank"><img alt='Github' src='https://img.shields.io/badge/-Github%20Follow-blue?style=for-the-badge&logo=github&logoColor=white'/></a>
-</p>
-
-
-</details>
+![Status Badge](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp)
+![Version Badge](https://img.shields.io/badge/VERSION-v1.0-blue?style=for-the-badge&logo=git)
+![License Badge](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)
 
 ---
 
-## 🚀 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴs
-
-### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
-ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ sɴᴏᴡʙɪʀᴅ!
-
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
+![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
 
 ---
 
-### 💙ᴘᴀɪʀ ʏᴏᴜʀ #💚ɢᴇᴛ ᴄʀᴇᴅs ғɪʟᴇ💜
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://kkkdjjdjjdjdjdjj.onrender.com/)
+---
+## 𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
+
+[![Get Mini Bot Here](https://img.shields.io/badge/GET%20MINI%20BOT%20HERE-%23FF512F%20%7C%20%23DD2476?style=for-the-badge&logo=rocket&logoColor=white)](https://popkid-direct-pair-version-fc79abbae43a.herokuapp.com/)
+
+---
+# 🔧 **sᴇᴛ ᴜᴘ ❣️**
+
+## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧**
+
+[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
 
 ---
 
-### ✔️ ᴅᴏᴡɴʟᴏᴀᴅ ʟᴀᴅʏʙᴇʟʟᴀ3 ᴢɪᴘ
+## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
 
-[![Deploy on Bot hosting net](https://img.shields.io/badge/-Download-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/SNOWBIRD0074/Lady-Bella2/archive/refs/heads/main.zip)
+[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=whit)](https://popkidonlineset.onrender.com)
+
+---
+
+## 🚀 **3. 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧✅**
+
+### **Heroku**
+
+[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=black)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/POPKID-MD)
+
+### **Render**
+
+[![Deploy to Render](https://img.shields.io/badge/DEPLOY%20TO%20RENDER-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
+
+### **Koyeb**
+
+[![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy)
+
+### **Railway**
+
+[![Deploy on Railway](https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
 
 ---
 
-### 🤍  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+# 🎯 **Project Overview**
 
-#### ✔️ ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
----
-[![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel)
-
+> **ken!ch!-xd** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
 
 ---
- 
-#### ✔️ Katabump Hosting
----
-[![Deploy on Katabump](https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.katabump.com/dashboard)
 
+# ✨ **Core Features**
 
----
- 
-#### ✔️ Vɪᴅᴇᴏ ᴏɴ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ
----
-[![Deploy on Heroku](https://img.shields.io/badge/-Watch-blue?style=for-the-badge&logo=heroku&logoColor=white)](https://youtu.be/2hrm7riEZRg?si=WGfGJp8M6QZ8OsSu)
-
-
+| Icon | Feature | Description |
+|:---:|:---|:---|
+| 🚀 | **Ultra Fast** | Engine optimized for low latency performance. |
+| 🔒 | **Data Secure** | Prioritizes privacy and safe data handling. |
+| 🛠️ | **Versatile Tools** | Includes admin tools, fun commands, downloader, AI & more. |
+| 💡 | **Easy Setup** | Pair and deploy your bot in minutes. |
 
 ---
-## Fᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ғᴏʀ ᴜᴘᴅᴀᴛᴇs
 
+## 📦 **Repository**
 
- <a href="https://whatsapp.com/channel/0029Vb6IVKB5a23uRnMxKt0m"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
- 
- ---
+[![GitHub Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popkidmd/POPKID-MD)
 
- 
-  </a>
-</p>
-<!-- Glowing Footer -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Lady+Bella2+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
-</h3>
+## 📢 **Community Support**
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r)
+
+---
+
+## ©️ **Creator**
+
+Developed with ❤️ by **kenichi**.
