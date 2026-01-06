@@ -58,6 +58,12 @@
 
 ---
 
+###  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+
+#### ✔️ ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
+---
+[![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel))
+
 # ✨ **Core Features**
 
 | Icon | Feature | Description |
