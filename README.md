@@ -40,8 +40,7 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
-ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
----
+
 **Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel))**
   
 <p align="">
