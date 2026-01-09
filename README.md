@@ -25,9 +25,9 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://cdn.ironman.my.id/q/wOPor.jpg'/></a>
+<a><img src='https://i.imgur.com/2c4yKCY.jpeg'/></a>
 
-<a><img src='https://imgur.com/sE8N8Fl'/></a>
+<a><img src='https://i.imgur.com/wnteKnR.mp4'/></a>
 
 ***
 
