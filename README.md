@@ -31,10 +31,6 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
   <a href="https://github.com/Kenichi-md/OYE-KENICHI/fork"><img title="KENICHI-XD" src="https://img.shields.io/badge/FORK-KENICHI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
-  
-### 2. 𐃁GET SESSION ID𐃁 
-
-`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:91872XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
 > **1. PAIR CODE SESSION ID**
