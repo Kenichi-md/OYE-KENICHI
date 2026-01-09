@@ -1,92 +1,158 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=PRINCE%20MDXI%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-![Status Badge](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp)
-![Version Badge](https://img.shields.io/badge/VERSION-v1.0-blue?style=for-the-badge&logo=git)
-![License Badge](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)
+
+  <p align="center">
+<a href="https://github.com/Mayelprince?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/itx-alii-raza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mayelprince/PRINCE-MDXI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/"><img title="Size" src="https://img.shields.io/github/repo-size/Mayelprince/PRINCE-MDXI?style=flat-square&color=green"></a>
+<a href="https://github.com/Mayelprince/PRINCE-MDXI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
+
+> **CURRENT BOT VERSION ➜ `4.5.0 ⚡`**
+---
+
+```
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
+```
+---
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20PRINCE-MDXI;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20PRINCE%20TECH" alt="Typing SVG" />
+</a>
+</p>
+  
+--- 
+
+<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+
+
+
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/Kenichi-md/OYE-KENICHI/fork"><img title="KENICHI-XD" src="https://img.shields.io/badge/FORK-KENICHI%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. 𐃁GET SESSION ID𐃁 
+
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:91872XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
+
+
+> **1. PAIR CODE SESSION ID**
+
+<a href='https://sessions.princetechn.com/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **2. PAIR CODE SESSION ID**
+
+<a href='https://session.princetechn.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+
 
 ---
 
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+### <h2 align="">𐃁PRINCE-MDXI DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
----
-## 𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
 
-[![Get Mini Bot Here](https://img.shields.io/badge/GET%20MINI%20BOT%20HERE-%23FF512F%20%7C%20%23DD2476?style=for-the-badge&logo=rocket&logoColor=white)](https://popkid-direct-pair-version-fc79abbae43a.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deployment-h4bs.onrender.com)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
----
-# 🔧 **sᴇᴛ ᴜᴘ ❣️**
 
-## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧**
 
-[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
+### <h4 align="">2. PRINCE HOST FREE</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://host.princetechn.com' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-PrinceHost ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
----
 
-## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
+  ### <h4 align="">3. KOYEB</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=whit)](https://popkidonlineset.onrender.com)
+<p align="">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=muzantech/SIGMA-MDX&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20PRINCE-MDX&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
----
+### <h4 align="">4. RAILWAY</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-## 🚀 **3. 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧✅**
+<p align="">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### **Heroku**
+### <h4 align="">5. RENDER</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=black)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/POPKID-MD)
+  
+<b><strong><summary align="" style="color: Yello;">EASIEST METHOD 2</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
 
-### **Render**
+</details>
 
-[![Deploy to Render](https://img.shields.io/badge/DEPLOY%20TO%20RENDER-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### **Koyeb**
 
-[![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy)
+### <h4 align="">7. REPLIT</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-### **Railway**
+<p align="">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Deploy on Railway](https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LkvcBQinlG7D0oIpl7IbM1)
 
----
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP . YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-# 🎯 **Project Overview**
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LkvcBQinlG7D0oIpl7IbM1)
 
-> **ken!ch!-xd** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
+ 
 
----
 
-###  ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+***
 
-#### ✔️ ʙᴏᴛ ʜᴏsᴛɪɴɢ ɴᴇᴛ
----
-[![Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel))
 
-# ✨ **Core Features**
+ <br>
+<h2 align="center"> ⚠️ DISCLAIMER ⚠️
+ </h2>
+ 
+ ---
 
-| Icon | Feature | Description |
-|:---:|:---|:---|
-| 🚀 | **Ultra Fast** | Engine optimized for low latency performance. |
-| 🔒 | **Data Secure** | Prioritizes privacy and safe data handling. |
-| 🛠️ | **Versatile Tools** | Includes admin tools, fun commands, downloader, AI & more. |
-| 💡 | **Easy Setup** | Pair and deploy your bot in minutes. |
+<h3 align="center"> DON'T COPY WITHOUT PERMISSION 
+</h3>
 
----
+<br>
 
-## 📦 **Repository**
+```
+I'M PRINCE M.
+THANKS TO;
+TAIRA MAKINO.
+GIFTED.
+FOR SUPPORTING ME IN THIS PROJECT 🙏 
+```
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![GitHub Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popkidmd/POPKID-MD)
-
----
-
-## 📢 **Community Support**
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r)
-
----
-
-## ©️ **Creator**
-
-Developed with ❤️ by **kenichi**.
+------
