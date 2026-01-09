@@ -40,8 +40,7 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
-
-**Deploy on Bot hosting net](https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=heroku&logoColor=white)](https://bot-hosting.net/panel))**
+3. **Deploy on [BOT HOSTING PANEL(DISCORD)](https://bot-hosting.net/?aff=1251693529084723300)**
   
 <p align="">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28
