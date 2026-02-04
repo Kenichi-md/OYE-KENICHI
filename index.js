@@ -1,21 +1,44 @@
-const { Client, logger } = require('./lib/client')
-const { DATABASE, VERSION } = require('./config')
-const { stopInstance } = require('./lib/pm2')
+// index.js — KENICHI‑XD WhatsApp Bot
+const { default: makeWASocket, DisconnectReason, useMultiFileAuthState } = require('@whiskeysockets/baileys')
+const pino = require('pino')
+const fs = require('fs')
+const path = require('path')
 
-const start = async () => {
-  logger.info(`levanter ${VERSION}`)
-  try {
-    await DATABASE.authenticate({ retry: { max: 3 } })
-  } catch (error) {
-    const databaseUrl = process.env.DATABASE_URL
-    logger.error({ msg: 'Unable to connect to the database', error: error.message, databaseUrl })
-    return stopInstance()
-  }
-  try {
-    const bot = new Client()
-    await bot.connect()
-  } catch (error) {
-    logger.error(error)
-  }
+// Load environment variables from config.js
+const { BOT_NAME, OWNER_NUMBER } = require('./config')
+
+// Authentication state
+async function startBot() {
+  const { state, saveCreds } = await useMultiFileAuthState('./session')
+
+  const sock = makeWASocket({
+    logger: pino({ level: 'silent' }),
+    printQRInTerminal: true,
+    auth: state
+  })
+
+  // connection updates
+  sock.ev.on('connection.update', (update) => {
+    const { connection, lastDisconnect } = update
+    if (connection === 'close') {
+      if (lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut) {
+        startBot()
+      } else {
+        console.log('Logged out — delete session folder and retry')
+      }
+    }
+    console.log('Connecting...', connection)
+  })
+
+  sock.ev.on('creds.update', saveCreds)
+
+  // load all plugins (commands)
+  const pluginsDir = path.join(__dirname, 'plugins')
+  fs.readdirSync(pluginsDir).forEach(file => {
+    require(path.join(pluginsDir, file))(sock)
+  })
+
+  console.log(`${BOT_NAME} is now running!`)
 }
-start()
+
+startBot()
